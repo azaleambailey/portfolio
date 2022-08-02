@@ -27,4 +27,4 @@
 
 ### This is a picture of me electro-fishing for eels in Enderkill Creek during my internship with the NYS DEC (June 2021).
 
-<img src="./eletro.jpg" style="width:100%; margin:auto; display:block">
+<img src="./electro.jpg" style="width:100%; margin:auto; display:block">
