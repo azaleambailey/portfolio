@@ -24,3 +24,7 @@
 ### This is a picture of me canoeing on the Hudson River collecting water quality and plant data (June 2021).
 
 <img src="./canoe.jpg" style="width:100%; margin:auto; display:block">
+
+### This is a picture of me electro-fishing for eels in Enderkill Creek (June 2021).
+
+<img src="./eletro.jpg" style="width:100%; margin:auto; display:block">
