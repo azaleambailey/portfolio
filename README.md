@@ -9,4 +9,5 @@
 <img src="./striper.jpg" style="width:50%; margin:auto; display:block">
 
 ### This is my stop motion animation video that Won 1st Place at the Hudson Data Jam Competition(February 2021).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y6pEInI5c6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
