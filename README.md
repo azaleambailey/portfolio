@@ -9,6 +9,10 @@
 
 <img src="./striper.jpg" style="width:50%; margin:auto; display:block">
 
+### This is a picture of me showing a river creature to kids attending the World Fish Day event in Staten Island (July 2022).
+
+<img src="./staten.JPG" style="width:50%; margin:auto; display:block">
+
 ### This is a stop motion animation video I helped my sister create that won 1st place at the Hudson Data Jam Competition (February 2022).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i-apdhHfmlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
