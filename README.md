@@ -7,11 +7,11 @@
 
 ### This is a picture of me holding a male striped bass I helped catch on the Hudson River during my internship with the NYS DEC (June 2022).
 
-<img src="./striper.jpg" style="width:50%; margin:auto; display:block">
+<img src="./striper.jpg" style="width:100%; margin:auto; display:block">
 
 ### This is a picture of me showing a river creature to kids attending the World Fish Day event in Staten Island (July 2022).
 
-<img src="./staten.JPG" style="width:50%; margin:auto; display:block">
+<img src="./staten.JPG" style="width:100%; margin:auto; display:block">
 
 ### This is a stop motion animation video I helped my sister create that won 1st place at the Hudson Data Jam Competition (February 2022).
 
