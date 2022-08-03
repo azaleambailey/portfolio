@@ -31,9 +31,9 @@
 
 ### Here, I am taking the water quality of the Hudson River while aboard the Clearwater (June 2021).
 
-<img src="./waterquality.jpg" style="width:100%; margin:auto; display:block">
+<img src="./waterquality.JPG" style="width:100%; margin:auto; display:block">
 
 ### In this picture, I am sorting through the fish my research team seined on the Hudson River at the Norrie Point Environmental Center (June 2021).
 
-<img src="./riverseine.jpg" style="width:100%; margin:auto; display:block">
+<img src="./riverseine.JPG" style="width:100%; margin:auto; display:block">
 
